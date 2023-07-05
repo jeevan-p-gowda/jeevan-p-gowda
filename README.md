@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jeevan Gowda</h1>
+<h3 align="center">Software Developer in Test</h3>
 
-<!--
-**jeevanpgowda/jeevanpgowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 I am a SDET, focused on creating UI and API Automation testing framework adapting industry best practices and do CI/CD as per the engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg' alt="css" width="auto" height="40">&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg' height='40' width='auto'>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="react" width="auto" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<p align="center">
+  
+<br>
+  
+<a href="https://github.com/jeevanpgowda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpgowda&layout=compact&theme=codeSTACKr&hide=glsl,python" />
+</a>
+<a href="https://github.com/jeevanpgowda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanpgowda&show_icons=true&theme=codeSTACKr&line_height=27" />
+</a>
+
+#### Top Repositories
+
+<a href="https://github.com/jeevanpgowda/Capstone-RestAssured">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Capstone-RestAssured&theme=date_night" />
+</a>
+<a href="https://github.com/jeevanpgowda/Appium_Swag_Labs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Appium_Swag_Labs&theme=date_night" />
+</a>
+
+<br />
+<br />
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/jeevan-p-48701b166/"><img align="right" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/><img align="left" src="https://komarev.com/ghpvc/?username=jeevangowda" alt="jeevangowda" /></a>
+</div>
