@@ -12,8 +12,9 @@ I am mainly focused on creating UI and API Automation testing framework adapting
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="react" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="react" width="auto" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" width='auto' height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" width='auto' height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width='auto' height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" width='auto' height="40"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width='auto' height="40"/>
+  
 <p align="center">
   
 <br>
