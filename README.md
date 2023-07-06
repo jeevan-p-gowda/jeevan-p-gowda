@@ -10,7 +10,10 @@ I am mainly focused on creating UI and API Automation testing framework adapting
   <img src='https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg' height='40' width='auto'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="react" width="auto" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="react" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" width='auto' height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" width='auto' height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width='auto' height="40"/>
 <p align="center">
   
 <br>
