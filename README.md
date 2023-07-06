@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jeevan Gowda</h1>
-<h3 align="center">Software Developer in Test</h3>
+<p align="center"><img width="50%" src="Hello-Im-Jeevan-Gowda.png"></p>
 
 
-👨‍💻 I am a SDET, focused on creating UI and API Automation testing framework adapting industry best practices and do CI/CD as per the engagement.
+I am mainly focused on creating UI and API Automation testing framework adapting industry best practices and do CI/CD as per the engagement.
 
-<br>
+</br>
 
 <p align="center">
   <img src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg' alt="css" width="auto" height="40">&nbsp;
