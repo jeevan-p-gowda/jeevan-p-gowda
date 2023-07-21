@@ -64,7 +64,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 </table>
 
 <br>
-  
+<h4> 📊 Profile Stats </h4>
 <a href="https://github.com/jeevanpgowda/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpgowda&layout=compact&theme=codeSTACKr&hide=glsl,python" />
 </a>
@@ -72,7 +72,8 @@ I am mainly focused on creating UI and API Automation testing framework adapting
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanpgowda&show_icons=true&theme=codeSTACKr&line_height=27" />
 </a>
 
-#### Top Repositories
+<div>
+<h4> 🗂️ Top Repositories </h4>
 
 <a href="https://github.com/jeevanpgowda/Capstone-RestAssured">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Capstone-RestAssured&theme=date_night" />
@@ -80,9 +81,9 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 <a href="https://github.com/jeevanpgowda/Appium_Swag_Labs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Appium_Swag_Labs&theme=date_night" />
 </a>
+</div>
 
-<br />
-<br />
+<br>
 <!--
 <div align=center>
   <a href="https://www.linkedin.com/in/jeevan-p-48701b166/"><img align="right" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
