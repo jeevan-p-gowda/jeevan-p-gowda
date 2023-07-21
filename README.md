@@ -1,16 +1,17 @@
 <p align="center"><img width="50%" src="Hello-Im-Jeevan-Gowda.png"></p>
 
-
+<div align='center'>
 I am mainly focused on creating UI and API Automation testing framework adapting industry best practices and build solutions.
+</div>
 </br>
-
-
+<div>
+<h3> 📚 Tech Stack </h3>
 <table  align="center" style="background-color: #fff;">
-  <thead>
+<!--   <thead>
 		<tr>
 			<th colspan=2> Tech Stack <img width="auto" height="40" src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' ></th>
 		</tr>
-	</thead>
+	</thead> -->
 	<tbody>
 		<tr>
       <td>
@@ -38,7 +39,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 		</tr>
     <tr>
       <td>
-				DevOps
+				Ops
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" width='auto' height="40"/>&nbsp&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width='auto' height="40"/>
@@ -60,29 +61,38 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				<img width="auto" height="40" src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="auto" height="40"/>
 			</td>
 		</tr>
+ <tr>
+      <td>
+				OS
+			</td>
+			<td style="text-align: center; height: 40px; background-color: #fff;">
+				<img width="auto" height="40" src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="auto" height="40"/>
+			</td>
+		</tr>
   </tbody>
 </table>
-
+</div>
 <br>
-<h4> 📊 Profile Stats </h4>
+<div>
+<h3> 📊 Profile Stats </h3>
 <a href="https://github.com/jeevanpgowda/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpgowda&layout=compact&theme=codeSTACKr&hide=glsl,python" />
 </a>
 <a href="https://github.com/jeevanpgowda/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanpgowda&show_icons=true&theme=codeSTACKr&line_height=27" />
 </a>
-
+</div>
 <div>
-<h4> 🗂️ Top Repositories </h4>
-
+<h3> 🗂️ Top Repositories </h3>
 <a href="https://github.com/jeevanpgowda/Capstone-RestAssured">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Capstone-RestAssured&theme=date_night" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Capstone-RestAssured&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/jeevanpgowda/Appium_Swag_Labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Appium_Swag_Labs&theme=date_night" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Appium_Swag_Labs&theme=codeSTACKr" />
 </a>
 </div>
 
+<br>
 <br>
 <!--
 <div align=center>
@@ -99,6 +109,6 @@ I am mainly focused on creating UI and API Automation testing framework adapting
   <a href="mailto:jeevanputtaswamy@gmail.com?subject=From your Github Profile">
     <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail Account" width="30"/>
   </a>
-  <div style="clear: both;"></div>
+<!--   <div style="clear: both;"></div> -->
   <img align="left" src="https://komarev.com/ghpvc/?username=jeevangowda" alt="jeevangowda" />
 </div>
