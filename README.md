@@ -27,6 +27,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" title='Selenium' width='auto' height="40"/>&nbsp;
+				<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" width='auto' height="40"/>&nbsp;
 				<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" width='auto' height="40"/>
 			</td>
 		</tr>
