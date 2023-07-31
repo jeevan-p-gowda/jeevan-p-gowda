@@ -18,7 +18,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				Language
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="50" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="auto" height="40"/>&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' title='JavaScript' height='40' width='auto' alt="JavaScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg' title='TypeScript' height='40' width='auto' alt="TypeScript">
+				<img width="auto" height="50" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="auto" height="40"/>&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' title='JavaScript' height='40' width='auto' alt="JavaScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg' title='TypeScript' height='40' width='auto' alt="TypeScript"><img src='https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg' title='Groovy' height='40' width='auto' alt="Groovy">
 			</td>
 		</tr>
     <tr>
@@ -26,9 +26,10 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				Library
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" title='Selenium' width='auto' height="40"/>&nbsp;
+				<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" title='Selenium' width='auto' height="40"/>&nbsp;
 				<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" width='auto' height="40"/>&nbsp;
 				<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" width='auto' height="40"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" title="Spring" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
@@ -38,6 +39,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title='Pytest' alt="Pytest" width="auto" height="40"/>&nbsp;
 				<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title='TestNG' alt="Pytest" width="auto" height="40"/>
+				<img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" title='Mockito' alt="Mockito" width="auto" height="40"/>
 			</td>
 		</tr>
     <tr>
@@ -56,12 +58,20 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				<img width="auto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" title='Maven'/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/124156?s=200&v=4" title='Gradle' width="auto" height="40"/>
 			</td>
 		</tr>
+<tr>
+      <td>
+				Management
+			</td>
+			<td style="text-align: center; height: 40px; background-color: #fff;">
+				<img width="auto" height="40" src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.png" title='Atlassian'/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title='Git' width="auto" height="40"/>&nbsp&nbsp;<img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" title='TestRail' width="auto" height="30"/>
+			</td>
+		</tr>
     <tr>
       <td>
 				IDE
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="40" title='IntelliJ IDEA' src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title='PyCharm' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title='VSC' width="auto" height="40"/>
+				<img width="auto" height="40" title='IntelliJ IDEA' src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title='PyCharm' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title='VS Code' width="auto" height="40"/>
 			</td>
 		</tr>
  <tr>
@@ -70,6 +80,14 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img width="auto" height="40" title='Linux' src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" title='Mac' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" title='Windows' width="auto" height="40"/>
+			</td>
+		</tr>
+<tr>
+      <td>
+				Database
+			</td>
+			<td style="text-align: center; height: 40px; background-color: #fff;">
+				<img width="auto" height="40" title='MySQL' src='https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title='Postgres' width="auto" height="40"/>
 			</td>
 		</tr>
   </tbody>
