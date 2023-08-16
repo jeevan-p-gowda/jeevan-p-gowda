@@ -96,20 +96,20 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 <br>
 <div>
 <h3> 📊 Profile Stats </h3>
-<a href="https://github.com/jeevanpgowda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpgowda&layout=compact&theme=codeSTACKr&hide=glsl,python" />
+<a href="https://github.com/jeevan-p-gowda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan-p-gowda&layout=compact&theme=codeSTACKr&hide=glsl,python" />
 </a>
-<a href="https://github.com/jeevanpgowda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevanpgowda&show_icons=true&theme=codeSTACKr&line_height=27" />
+<a href="https://github.com/jeevan-p-gowda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-p-gowda&show_icons=true&theme=codeSTACKr&line_height=27" />
 </a>
 </div>
 <div>
 <h3> 🗂️ Top Repositories </h3>
-<a href="https://github.com/jeevanpgowda/Capstone-RestAssured">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Capstone-RestAssured&theme=codeSTACKr" />
+<a href="https://github.com/jeevan-p-gowda/Capstone-RestAssured">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=Capstone-RestAssured&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/jeevanpgowda/Appium_Swag_Labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpgowda&repo=Appium_Swag_Labs&theme=codeSTACKr" />
+<a href="https://github.com/jeevan-p-gowda/Appium_Swag_Labs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=Appium_Swag_Labs&theme=codeSTACKr" />
 </a>
 </div>
 
