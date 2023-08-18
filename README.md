@@ -44,7 +44,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 		</tr>
     <tr>
       <td>
-				Ops
+				aaS
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" title="Jenkins" width='auto' height="40"/>&nbsp&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>
