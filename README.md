@@ -40,6 +40,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title='Pytest' alt="Pytest" width="auto" height="40"/>&nbsp;
 				<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title='TestNG' alt="Pytest" width="auto" height="40"/>
 				<img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" title='Mockito' alt="Mockito" width="auto" height="40"/>
+				<img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" title='JUnit' alt="JUnit" width="auto" height="40"/>
 			</td>
 		</tr>
     <tr>
