@@ -55,7 +55,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				Builder
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="30" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" title='Maven'/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/124156?s=200&v=4" title='Gradle' width="auto" height="40"/>
+				<img width="auto" height="30" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" title='Maven'/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/124156?s=200&v=4" title='Gradle' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title='npm' width="auto" height="30"/>
 			</td>
 		</tr>
 <tr>
