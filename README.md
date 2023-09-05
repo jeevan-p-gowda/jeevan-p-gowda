@@ -18,7 +18,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				Language
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="50" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="auto" height="40"/>&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' title='JavaScript' height='40' width='auto' alt="JavaScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg' title='TypeScript' height='40' width='auto' alt="TypeScript"><img src='https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg' title='Groovy' height='40' width='auto' alt="Groovy">
+				<img width="auto" height="50" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="auto" height="40"/>&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' title='JavaScript' height='40' width='auto' alt="JavaScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg' title='TypeScript' height='40' width='auto' alt="TypeScript"><img src='https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg' title='Groovy' height='40' width='auto' alt="Groovy"><img src='https://bashlogo.com/img/symbol/svg/full_colored_light.svg' title='Shell' height='40' width='auto' alt="Shell">
 			</td>
 		</tr>
     <tr>
