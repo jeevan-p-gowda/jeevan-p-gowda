@@ -42,7 +42,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title='TestNG' alt="TestNG" width="auto" height="40"/>
 				<img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" title='Mockito' alt="Mockito" width="auto" height="40"/>
 				<img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" title='JUnit' alt="JUnit" width="auto" height="40"/>
-				<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Mocha_logo.svg" title='JUnit' alt="MochaJS" width="auto" height="40"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Mocha_logo.svg" title='MochaJS' alt="MochaJS" width="auto" height="40"/>
 			</td>
 		</tr>
 		<tr>
