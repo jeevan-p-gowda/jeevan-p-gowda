@@ -23,13 +23,14 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 		</tr>
     <tr>
       <td>
-				Library
+				Automation
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" title='Selenium' width='auto' height="40"/>&nbsp;
 				<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" width='auto' height="40"/>&nbsp;
 				<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" width='auto' height="40"/>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" title="Spring" width='auto' height="40"/>
+				<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" title="Cypress" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
@@ -41,6 +42,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				<img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" title='TestNG' alt="TestNG" width="auto" height="40"/>
 				<img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" title='Mockito' alt="Mockito" width="auto" height="40"/>
 				<img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" title='JUnit' alt="JUnit" width="auto" height="40"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Mocha_logo.svg" title='JUnit' alt="MochaJS" width="auto" height="40"/>
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +59,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				DevOps
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" title="Jenkins" width='auto' height="40"/>&nbsp&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>
+				<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" title="Jenkins" width='auto' height="40"/>&nbsp&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
