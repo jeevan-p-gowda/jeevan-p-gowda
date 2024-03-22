@@ -31,6 +31,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" width='auto' height="40"/>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" title="Spring" width='auto' height="40"/>
 				<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" title="Cypress" width='auto' height="40"/>
+				<img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
@@ -89,7 +90,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 		</tr>
  <tr>
       <td>
-			File System
+			System
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img width="auto" height="40" title='Linux' src='https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg" title='Mac' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" title='Windows' width="auto" height="40"/>
