@@ -122,7 +122,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 <a href="https://github.com/jeevan-p-gowda/Capstone-RestAssured">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=Capstone-RestAssured&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/jeevan-p-gowda/Appium_Swag_Labs">
+<a href="https://github.com/jeevan-p-gowda/playwright-typescript-ui-framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=Appium_Swag_Labs&theme=codeSTACKr" />
 </a>
 </div>
