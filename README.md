@@ -26,12 +26,12 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				Automation
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
+				<img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" width='auto' height="40"/>
 				<img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" title='Selenium' width='auto' height="40"/>&nbsp;
-				<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" width='auto' height="40"/>&nbsp;
-				<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="RestAssured" width='auto' height="40"/>
+				<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" title="REST Assured" width='auto' height="40"/>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" title="Spring" width='auto' height="40"/>
 				<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" title="Cypress" width='auto' height="40"/>
-				<img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" width='auto' height="40"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" width='auto' height="40"/>&nbsp;
 			</td>
 		</tr>
     <tr>
@@ -61,7 +61,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				DevOps
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" title="Jenkins" width='auto' height="40"/>&nbsp&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" width='auto' height="40"/>
+				<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" title="Jenkins" width='auto' height="40"/>&nbsp&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" width='auto' height="40"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
@@ -77,7 +77,7 @@ I am mainly focused on creating UI and API Automation testing framework adapting
 				Management
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="40" src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.png" title='Atlassian'/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title='Git' width="auto" height="40"/>&nbsp&nbsp;<img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" title='TestRail' width="auto" height="30"/>
+				<img width="auto" height="40" src="https://logos-world.net/wp-content/uploads/2023/03/Atlassian-Logo.png" title='Atlassian'/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title='Git' width="auto" height="40"/>&nbsp&nbsp;<img src="https://www.testrail.com/wp-content/uploads/2022/12/TestRail_Logo_Main_01.svg" title='TestRail' width="auto" height="30"/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/31894430?s=200&v=4" title='Kiwi TCMS' width="auto" height="40"/>
 			</td>
 		</tr>
     <tr>
