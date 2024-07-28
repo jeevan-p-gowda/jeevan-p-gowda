@@ -1,7 +1,7 @@
 <p align="center"><img width="50%" src="Hello-Im-Jeevan-Gowda.png"><img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="auto" height=100></p>
 
 <div align='center'>
-I am mainly focused on creating UI and API Automation testing framework adapting industry best practices and build solutions.
+I am mainly focused on crafting UI and API scalable automation testing framework adapting industry best practices and build solutions.
 </div>
 </br>
 <div>
