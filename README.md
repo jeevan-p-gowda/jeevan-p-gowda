@@ -119,8 +119,8 @@ I am mainly focused on crafting UI and API scalable automation testing framework
 </div>
 <div>
 <h3> 🗂️ Top Repositories </h3>
-<a href="https://github.com/jeevan-p-gowda/Capstone-RestAssured">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=Capstone-RestAssured&theme=codeSTACKr" />
+<a href="https://github.com/jeevan-p-gowda/rest-assured-mastery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=rest-assured-mastery&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/jeevan-p-gowda/playwright-typescript-ui-framework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=playwright-typescript-ui-framework&theme=codeSTACKr" />
