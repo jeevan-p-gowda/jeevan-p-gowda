@@ -85,7 +85,7 @@ I am mainly focused on crafting UI and API scalable automation testing framework
 				Tool
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="40" title='IntelliJ IDEA' src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title='PyCharm' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title='VS Code' width="auto" height="40"/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/57269507?s=200&v=4" title='Postman' width="auto" height="40"/>
+				<img width="auto" height="40" title='IntelliJ IDEA' src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title='PyCharm' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title='VS Code' width="auto" height="40"/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title='Postman' width="auto" height="40"/>
 			</td>
 		</tr>
  <tr>
