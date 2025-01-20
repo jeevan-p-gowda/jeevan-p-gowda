@@ -122,8 +122,8 @@ I am mainly focused on crafting UI and API scalable automation testing framework
 <a href="https://github.com/jeevan-p-gowda/rest-assured-mastery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=rest-assured-mastery&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/jeevan-p-gowda/selenium-java-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=selenium-java-framework&theme=codeSTACKr" />
+<a href="https://github.com/jeevan-p-gowda/playwright-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=playwright-template&theme=codeSTACKr" />
 </a>
 </div>
 
