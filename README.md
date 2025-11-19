@@ -27,6 +27,7 @@ I am mainly focused on crafting UI and API scalable automation testing framework
 	    </td>
 	    <td style="text-align: center; height: 40px; background-color: #fff;">
 		    <img src='https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg' title="Spring" width='auto' height="40"/>
+			<img src='https://avatars.githubusercontent.com/u/27804?s=200&v=4' title="Django" width='auto' height="40"/>
     </tr>
 		<tr>
 			<td>
@@ -67,7 +68,7 @@ I am mainly focused on crafting UI and API scalable automation testing framework
 				Architecture
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" title='REST API' alt="REST API" width="auto" height="40"/>&nbsp;
+				<img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22099.png" title='REST API' alt="REST API" width="auto" height="40"/>&nbsp;
 				<img src="https://datatron.com/wp-content/uploads/2021/10/hero-2-1.svg" title='Microservices' alt="Microservices" width="auto" height="40"/>
 			</td>
 		</tr>
@@ -84,7 +85,7 @@ I am mainly focused on crafting UI and API scalable automation testing framework
 				Builder
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="30" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" title='Maven'/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/124156?s=200&v=4" title='Gradle' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title='npm' width="auto" height="30"/>&nbsp&nbsp;<img src='https://docs.astral.sh/uv/assets/logo-letter.svg' title='UV' width="auto" height="30">
+				<img width="auto" height="30" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" title='Maven'/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/124156?s=200&v=4" title='Gradle' width="auto" height="40"/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title='npm' width="auto" height="30"/>&nbsp&nbsp;<img src='https://docs.astral.sh/uv/assets/logo-letter.svg' title='UV' width="auto" height="30">&nbsp&nbsp;<img src='https://avatars.githubusercontent.com/u/22247014?s=200&v=4' title='Yarn' width="auto" height="30">
 			</td>
 		</tr>
 <tr>
