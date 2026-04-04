@@ -1,7 +1,20 @@
-<p align="center"><img width="50%" src="Hello-Im-Jeevan-Gowda.png"><img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="auto" height=100></p>
+<p align="center">
+	<img width="50%" src="Hello-Im-Jeevan-Gowda.png"><img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="auto" height=100>
+</p>
 
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=AI-first+full+stack+SDE%2C+focused+on+innovation." alt="Typing SVG" /></a>
+<br>
+<a href="https://medium.com/@jeevanputtaswamy">
+	<img align="right" src="https://avatars.githubusercontent.com/u/923954?s=200&v=4" title="Medium" alt="Medium Account" width="30"/>
+</a>
+<a href="https://www.linkedin.com/in/jeevan-p-48701b166/">
+	<img align="right" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
+</a>
+<a href="mailto:jeevanputtaswamy@gmail.com?subject=From your Github Profile">
+	<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail Account" width="30"/>
+</a>
+  	<img align="left" src="https://komarev.com/ghpvc/?username=jeevangowda" alt="jeevangowda" />
 </div>
 </br>
 <div>
