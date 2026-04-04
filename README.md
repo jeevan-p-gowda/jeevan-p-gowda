@@ -155,24 +155,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-p-gowda&repo=playwright-template&theme=codeSTACKr" />
 </a>
 </div>
-
 <br>
-<br>
-<!--
-<div align=center>
-  <a href="https://www.linkedin.com/in/jeevan-p-48701b166/"><img align="right" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
-  <a href="https://www.instagram.com/_jeevan_gowda_/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" title="Instagram" alt="Instagram Account" width="30"/>
-  <a href="mailto:jeevanputtaswamy@gmail.com?subject=From your Github Profile"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail Account" width="30"/>
-    <img align="left" src="https://komarev.com/ghpvc/?username=jeevangowda" alt="jeevangowda" /></a>
-</div>
--->
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/jeevan-p-48701b166/">
-    <img align="right" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
-  </a>
-  <a href="mailto:jeevanputtaswamy@gmail.com?subject=From your Github Profile">
-    <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail Account" width="30"/>
-  </a>
-<!--   <div style="clear: both;"></div> -->
-  <img align="left" src="https://komarev.com/ghpvc/?username=jeevangowda" alt="jeevangowda" />
-</div>
