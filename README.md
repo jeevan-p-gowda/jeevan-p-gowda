@@ -1,7 +1,7 @@
 <p align="center"><img width="50%" src="Hello-Im-Jeevan-Gowda.png"><img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="auto" height=100></p>
 
 <div align='center'>
-I am mainly focused on crafting UI and API scalable automation testing framework adapting industry best practices and build solutions.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=AI-first+full+stack+SDE%2C+focused+on+innovation." alt="Typing SVG" /></a>
 </div>
 </br>
 <div>
