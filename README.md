@@ -8,7 +8,7 @@
 <a href="https://medium.com/@jeevanputtaswamy">
 	<img align="right" src="https://avatars.githubusercontent.com/u/923954?s=200&v=4" title="Medium" alt="Medium Account" width="30"/>
 </a>
-<a href="https://www.linkedin.com/in/jeevan-p-48701b166/">
+<a href="https://www.linkedin.com/in/jeevan-puttaswamy/">
 	<img align="right" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
 </a>
 <a href="mailto:jeevanputtaswamy@gmail.com?subject=From your Github Profile">
